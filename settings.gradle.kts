@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "NoteTaker"
 include(":app")
 include(":core")
+include(":notes")
+include(":welcome")
